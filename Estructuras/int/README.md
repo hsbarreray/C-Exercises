@@ -14,7 +14,7 @@ El tipo de dato `int` en C representa números enteros (positivos, negativos o c
 	```bash
 	gcc ejemplo_int.c -o ejemplo_int
 	./ejemplo_int
-	```
+	
 
 ## Ejercicios propuestos
 1. Escribe un programa que pida al usuario dos números enteros y muestre su suma.
